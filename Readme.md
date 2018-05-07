@@ -3,7 +3,7 @@
 
 Handson on pandas dataframe.
 
-Data Source : Olympicsdata.csv
+Data Source : Olympicdata.csv
 Code Snippet : Untitled.ipynb
 
 
